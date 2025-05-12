@@ -141,7 +141,7 @@ scikit-learn
 1. **Clone** this repo
 
 
-   git clone <[my_repol](https://github.com/Fadelhamkaa/Klasifikasi-Gambar-Pengembangan-Machine-Learning.git)>
+   git clone <[my_repo](https://github.com/Fadelhamkaa/Klasifikasi-Gambar-Pengembangan-Machine-Learning.git)>
    cd submission
 
 
