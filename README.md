@@ -7,42 +7,23 @@ This repository contains a complete end-to-end pipeline for a 6-class garbage cl
 ## 📂 Repository Structure
 
 submission/
-
 ├── saved_model/           # TensorFlow SavedModel (server/cloud)
-
 │   ├── saved_model.pb
-
 │   └── variables/
-
 │       ├── variables.data-00000-of-00001
-
 │       └── variables.index
-
 ├── tflite/                # TensorFlow Lite (mobile/embedded)
-
 │   ├── model.tflite
-
 │   └── label.txt
-
 ├── tfjs_model/            # TensorFlow.js (browser/JavaScript)
-
 │   ├── model.json
-
 │   ├── group1-shard1of23.bin
-
 │   ├── group1-shard2of23.bin
-
 │   └── …  
-
 │   └── group1-shard23of23.bin
-
 ├── notebook.ipynb         # All steps in one Colab notebook
-
 ├── requirements.txt       # Python dependencies
-
 └── README.md              # This file
-
-
 
 ---
 
