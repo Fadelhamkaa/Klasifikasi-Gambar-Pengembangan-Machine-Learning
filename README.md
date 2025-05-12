@@ -115,7 +115,7 @@ print(f"Predicted: {labels[idx]} ({pred[0][idx]:.2f})")
 ```
 
 *Example:*
-![Inference Example](screenshots/inference.png)
+![Inference Example]([/Screenshot 2025-05-12 131218.jpg](https://github.com/Fadelhamkaa/Klasifikasi-Gambar-Pengembangan-Machine-Learning/blob/main/Screenshot%202025-05-12%20131218.jpg))
 
 ---
 
